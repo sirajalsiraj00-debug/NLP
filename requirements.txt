@@ -1,0 +1,4 @@
+uvPyPDF2
+scikit-learn
+nltk
+customtkinter
